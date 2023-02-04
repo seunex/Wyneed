@@ -3,7 +3,7 @@ What You Need is a web app built with React that allows you to know how much you
 
 ## Access Link
 App is hosted on Heroku
-https://wyneed.herokuapp.com/
+https://intense-temple-36954.herokuapp.com/
 
 ## Layouts
 This is a Sprinted Development, UI improvements will come aftwards
